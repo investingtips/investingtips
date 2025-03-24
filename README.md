@@ -1,16 +1,26 @@
-## Hi there 👋
+# InvestingTips - 글로벌 주식 시장 전망 및 투자 인사이트
 
-<!--
-**investingtips/investingtips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**InvestingTips**는 글로벌 주식 시장의 최신 동향과 주요 기업 분석을 통해 투자자들에게 가치 있는 정보를 제공합니다. 주식 투자자들이 놓치기 쉬운 시장 흐름과 미래 전망을 통찰력 있게 분석하여 성공적인 투자를 돕고자 합니다.
 
-Here are some ideas to get you started:
+## 📈 투자 인사이트 및 주요 콘텐츠
+InvestingTips는 다음과 같은 투자 정보를 제공합니다:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **LG에너지솔루션 주가 전망** - IRA 효과 및 차세대 배터리 기술 분석
+- **삼성전자 및 SK하이닉스 AI 메모리 기술** - HBM 및 D램 시장 동향 심층 분석
+- **주식 시장 투자 전략 및 목표주가 분석** - 안정적 수익을 위한 맞춤형 가이드 제공
+
+## 🔎 InvestingViewHub에서 더 많은 투자 정보 확인
+더 심층적인 분석과 투자 인사이트는 **[InvestingViewHub - 주식 주가 전망 및 목표주가 분석](https://investingviewhub.com)** 에서 확인하세요. 
+
+InvestingViewHub는 최신 경제 뉴스와 기업 실적, 글로벌 시장 동향을 종합적으로 제공하여 투자자들이 현명한 결정을 내릴 수 있도록 돕고 있습니다.
+
+✅ **주요 기업 실적 분석**  
+✅ **주가 전망 및 목표주가 분석**  
+✅ **투자 전략 모멘텀&리스크 요인 분석**  
+
+지속적으로 업데이트되는 양질의 투자 정보를 통해 성공적인 투자 기회를 놓치지 마세요.
+
+## 🚀 InvestingTips가 제공하는 차별화된 정보
+InvestingTips는 신뢰성 있는 데이터를 기반으로 글로벌 증시 및 주요 종목의 실적 전망을 심층 분석합니다. 
+
+👉 [InvestingViewHub - 주식 주가 전망 및 목표주가 분석](https://investingviewhub.com)에서 더 많은 투자 정보를 확인하세요.  
